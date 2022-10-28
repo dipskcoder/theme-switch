@@ -1,0 +1,82 @@
+button {
+  margin: 5px;
+}
+
+.theme-dark {
+  .primary {
+    color: #90e0ef;
+    table,
+    tr,
+    th, table,
+    tr,
+    td{
+      border: 2px solid #90e0ef;
+      border-collapse: collapse;
+    }
+    
+  }
+
+  .secondary {
+    color: #dedbd2;
+    table,
+    tr,
+    th,  table,
+    tr,
+    td {
+      border: 2px solid #dedbd2;
+      border-collapse: collapse;
+    }
+  }
+}
+
+.theme-light {
+  .primary {
+    color: #0077b6;
+    table,
+    tr,
+    th,  table,
+    tr,
+    td {
+      border: 2px solid #0077b6;
+      border-collapse: collapse;
+    }
+  }
+
+  .secondary {
+    color: #468faf;
+    table,
+    tr,
+    th,  table,
+    tr,
+    td {
+      border: 2px solid #468faf;
+      border-collapse: collapse;
+    }
+  }
+}
+
+.theme-contrast {
+  .primary {
+    color: #e63946;
+    table,
+    tr,
+    th,  table,
+    tr,
+    td {
+      border: 2px solid #e63946;
+      border-collapse: collapse;
+    }
+  }
+
+  .secondary {
+    color: #457b9d;
+    table,
+    tr,
+    th,  table,
+    tr,
+    td {
+      border: 2px solid #457b9d;
+      border-collapse: collapse;
+    }
+  }
+}
